@@ -61,11 +61,10 @@ span {
 }
 .popup {
   display: none;
-
   position: absolute;
   left: 0;
   top: calc(100% + 5px);
-  width: 280px;
+  width: 310px;
   height: 320px;
   overflow: auto;
   border-radius: 6px;
@@ -106,6 +105,8 @@ span.more__btn {
 
 .more__list {
   display: none;
+  justify-content: center;
+  align-content: center;
 }
 .menu__item {
   margin: 0px 10px;
