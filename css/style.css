@@ -166,8 +166,7 @@ span.more__btn {
 }
 
 .more__input:focus ~ .more__label {
-background-color: rgb(234, 222, 180);
- 
+  background-color: rgb(234, 222, 180);
 }
 .main {
   grid-area: main;
